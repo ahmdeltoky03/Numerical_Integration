@@ -4,6 +4,7 @@
       
       ![](images\trapezoidal.png)
     - Simpson's Function
+  
       ![](images\simpson's.png)
 - use main function  for running the program.
 - After Running This Program you will be asked to Enter Function ,lower  limit, upper limit and the number of sub_intervals.
@@ -15,7 +16,9 @@
 
 
 - The Function Before integration :
+
   ![](images\func_before.png)
+  
 - The function After integration :
 
   ![](images\func_after.png) 
