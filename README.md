@@ -10,6 +10,7 @@
       
 - use main.py file  for running the program.
 - After Running This Program you will be asked to Enter Function ,lower  limit, upper limit and the number of sub_intervals.
+  
   ![](https://github.com/ahmdeltoky03/Maths_Project/blob/main/images/data.png)
 
 - The output that is shown to you  after executing the code will be as follows:
@@ -20,6 +21,7 @@
 - The Function Before integration :
 
   ![](https://github.com/ahmdeltoky03/Maths_Project/blob/main/images/func_before.png)
+  
 - The function After integration :
 
   ![](https://github.com/ahmdeltoky03/Maths_Project/blob/main/images/func_after.png)
