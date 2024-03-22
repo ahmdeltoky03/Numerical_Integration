@@ -1,4 +1,5 @@
 # Maths_Project
+# **Integration Using Trapezoidal Rule and Simpson's Rule**
 -  In this Project we use Trapezoidal Rule and Simpson's Rule to Solve Complex Integration.
     - Trapezoidal Function
       
